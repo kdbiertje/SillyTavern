@@ -1,8 +1,7 @@
 # SillyTavern
 
 LLM Frontend for Power Users
-test
-
+mobile
 
 ## Resources
 
